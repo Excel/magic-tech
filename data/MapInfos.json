@@ -1,7 +1,7 @@
 [
 null,
-{"id":1,"expanded":false,"name":"Classroom","order":1,"parentId":0,"scrollX":651,"scrollY":363},
+{"id":1,"expanded":false,"name":"Classroom","order":1,"parentId":0,"scrollX":491,"scrollY":323.5},
 {"id":2,"expanded":false,"name":"Room","order":2,"parentId":0,"scrollX":832,"scrollY":640},
-{"id":3,"expanded":false,"name":"Hallway","order":3,"parentId":0,"scrollX":643,"scrollY":363},
+{"id":3,"expanded":false,"name":"Hallway","order":3,"parentId":0,"scrollX":441.5,"scrollY":363.5},
 {"id":4,"expanded":false,"name":"Abandoned Room","order":4,"parentId":0,"scrollX":651,"scrollY":363}
 ]
